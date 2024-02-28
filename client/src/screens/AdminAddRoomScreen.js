@@ -98,8 +98,8 @@ function AdminAddRoomScreen() {
               <InputNumber min={1} defaultChecked={1} />
             </Form.Item>
             <Form.Item
-              name="phonenumber"
-              label="phonenumber"
+              name="roomnumber"
+              label="roomnumber"
               rules={[
                 {
                   required: true,

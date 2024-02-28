@@ -38,7 +38,7 @@ const roomSchema = mongoose.Schema(
       type: Number,
       required: true,
     },
-    phonenumber: {
+    roomnumber: {
       type: Number,
       required: true,
     },
